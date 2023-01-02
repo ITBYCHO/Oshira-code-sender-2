@@ -1,0 +1,43 @@
+{
+  "env": {
+    "token": "OTQ5MTY0NjEzNDAzMDI5NTE0.GZQOUx.kiT7sNpqfqQ-HQYutHGgkq0RgZ9p7z7dkiH6-M",
+    "status": "online",
+    "description": "A Helper bot that sends you a snippet/line of code.",
+    "about": "Ticket",
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=964779898436730945&permissions=8&scope=bot%20applications.commands",
+    "supportServer": "https://discord.gg/ZrNzZYc7Dv"
+  },
+
+  "mongoDB": {
+    "mongoURI": "mongodb+srv://supreme:supreme@newsupreme.qp8lbuw.mongodb.net/?retryWrites=true&w=majority"
+  },
+
+  "client_owner": {
+    "dev": ["928640467619434526"]
+  },
+
+  "emoji": {
+    "wrong": "<:zen_wrong:1006769964088311888>",
+    "right": "<:zen_check:1006769471555371128>",
+    "loading": "<a:zen_loading2:996274739930742885>",
+    "connected": "<:zen_greend:1006770445426622515>",
+    "guild": "<:zen_slashC:1006785200505749574>",
+    "stats": "<:zen_stats:1006769933197250600>",
+    "slash": "<:zen_person:1006785164799647744>"
+  },
+
+  "color": {
+    "main": "FFFFFF",
+    "error": "FF0000",
+    "success": "00FF00",
+
+    "red": "FF0000",
+    "orange": "ffca4d",
+    "yellow": "FFFF00",
+    "green": "00FF00",
+    "purple": "800080",
+    "pink": "ff88d2",
+    "grey": "808080",
+    "white": "FFFFFF"
+  }
+}
